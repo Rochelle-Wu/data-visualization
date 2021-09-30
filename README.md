@@ -3,6 +3,8 @@ The data which be visualized is the ratio of the student in different education 
 # Prototypes
 For show the result directly, I draw a bar plot based on the data, the picture is shown as follow. (Due to the size, I just screenshot a part of the bar plot, for more detail, please refer to this link https://vizhub.com/Rochelle-Wu/26221379230e4140a399445b36f8f990?edit=files&file=index.js) This plot shows the student ratio for different countries (here, I use country_code to replace the countries) in different year.
 <img width="1270" alt="pic 1  png" src="https://user-images.githubusercontent.com/69691956/134442170-c4b62328-d9e1-41b5-adbc-022424e53d24.png">
+The part of Primary Education plot is as follow.
+![image](https://user-images.githubusercontent.com/69691956/135380565-1402d281-9cef-45ce-8231-2bd9e04306bf.png)
 # Questions
 1. From 2012 to 2018, which country has the most improved data? 
 2. Is the proportion of students related to the level of national development?

@@ -1,19 +1,23 @@
 # data-visualization
-The data which be visualized is the ratio of the student in different education level for different countries in my project. The data link is https://gist.github.com/Rochelle-Wu/6f2a70efd063a00c4fd656aae2411fff. I filter the data because there are some invalid data which can influence the result.
+The data which be visualized is the data of video game sales that the total number is more than 5 million in the whole world. The data link is https://gist.github.com/Rochelle-Wu/6cb1e6fd26fc9980374dac3a98bdc435. The original data is https://www.kaggle.com/gregorut/videogamesales I filter the data because there are some invalid data which can influence the result, and I selected the first 208 data.
 # Prototypes
-For show the result directly, I draw a bar plot based on the data, the picture is shown as follow. (Due to the size, I just screenshot a part of the bar plot, for more detail, please refer to this link https://vizhub.com/Rochelle-Wu/26221379230e4140a399445b36f8f990?edit=files&file=index.js) This plot shows the student ratio for different countries (here, I use country_code to replace the countries) in different year.
-<img width="1270" alt="pic 1  png" src="https://user-images.githubusercontent.com/69691956/134442170-c4b62328-d9e1-41b5-adbc-022424e53d24.png">
-The part of Primary Education plot is as follow.
-![image](https://user-images.githubusercontent.com/69691956/135380565-1402d281-9cef-45ce-8231-2bd9e04306bf.png)
+For show the result directly, I draw a bar plot based on the data, the picture is shown as follow. (Due to the size, I just screenshot a part of the bar plot, for more detail, please refer to this link https://vizhub.com/Rochelle-Wu/8efdeac3d2d74c978214f6a12bf669c5) This plot shows the data of video game sales in different platforms.
+![image](https://user-images.githubusercontent.com/69691956/136319584-9875e340-5d47-4ebe-aa4d-7012a1618110.png)
+The data of Wii platform.
+![image](https://user-images.githubusercontent.com/69691956/136327850-dc213008-e141-49e2-9e59-c1634608205e.png)
+
 # Questions
-1. From 2012 to 2018, which country has the most improved data? 
-2. Is the proportion of students related to the level of national development?
-3. what is the biggest ratio of education phase
+1. From whole data, Which platform sells the most games? 
+2. What is the favorite genre for each region?
+3. Which does publisher sell the most game (< 5 million)? 
+
 # Sketches
 To help answer these questions I've conceptualized a visualization dashboard in the following sketch.
-There are three types of the sketch. 
-![无标题的笔记本-2](https://user-images.githubusercontent.com/69691956/134450495-4450ae82-0cc3-4c41-a189-687a5559e76b.jpg)
-![无标题的笔记本-3](https://user-images.githubusercontent.com/69691956/134450499-ca8f34ed-b13f-496d-ba61-2d4f721c0ced.jpg)
-For the first plot, we account the data of differernt types education for all country, and the result is shown in first picture. From this picture we can easily know that what the education type is the biggest. What is the second, ... The second picture comes from other data. We need a extra dataset for countries' GDP from 2012 to 2018. and we use the line graph to show the change of GDP, and then we combine with student ratio in different year, we can find out the relationship between GDP and the ratio. I need to explain the third graph specially, in here, the third graph represents a kind of graphs based on different types of education. So there should be 4 same style picture. From these picture, we can answer the first question based on observed the rising amplitude. If the amplitude is bigger, we can know that the data is more improved.
+There are three sketches. 
+![无标题的笔记本-2](https://user-images.githubusercontent.com/69691956/136325803-4f3dc593-e1d8-46b8-8583-b8369e9af271.jpg)
+![无标题的笔记本-3](https://user-images.githubusercontent.com/69691956/136325831-6f259441-497e-4ba0-9814-363206b584c2.jpg)
+
+For the first plot, we account the data about the sales in differernt platform for the whole world, and the result is shown in first picture. From this picture we can easily know that what the platform is the biggest. What is the second, ... The second picture is about the data counting from the publisher. From this picture, we can know that which pulisher have the most number of game. The third graphy is about the sales number for different types of game in different region. From this plot, we can understand the preferences of different regions for game types.
+
 # Open Questions
-I am wondering that if there third graph can be optimzed. For example, we can use one graph to replace four same style graph. Moreover, if we can have more succinct way to show our data?
+I am wondering that if there third graph can be optimzed. For example, we can use one graph to represent single genre of game and total data at the same time. Moreover, if we can have more succinct way to show our data?

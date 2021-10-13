@@ -3,13 +3,13 @@ The data which be visualized is the data of video game sales that the total numb
 # Prototypes
 For show the result directly, I draw a bar plot based on the data, the picture is shown as follow. (Due to the size, I just screenshot a part of the bar plot, for more detail, please refer to this link https://vizhub.com/Rochelle-Wu/8efdeac3d2d74c978214f6a12bf669c5) This plot shows the data of video game sales in different platforms.
 ![image](https://user-images.githubusercontent.com/69691956/136319584-9875e340-5d47-4ebe-aa4d-7012a1618110.png)
-The data of Wii platform.
-![image](https://user-images.githubusercontent.com/69691956/136327850-dc213008-e141-49e2-9e59-c1634608205e.png)
-
+The data of Wii serires platform (Wii & WiiU).
+![image](https://user-images.githubusercontent.com/69691956/137228581-d4052f78-749d-44e5-bd54-de14ecd16dc4.png)
 # Questions
-1. From whole data, Which platform sells the most games? 
-2. What is the favorite genre for each region?
-3. Which does publisher sell the most game (< 5 million)? 
+1. From whole data, which publisher does sell the most games? 
+2. Which platform does sell the most games? 
+3. What is the favorite genre for each region?
+4. Which publisher does sell the most game (< 5 million)? 
 
 # Sketches
 To help answer these questions I've conceptualized a visualization dashboard in the following sketch.

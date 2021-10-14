@@ -3,10 +3,12 @@ The data which be visualized is the data of video game sales that the total numb
 # Prototypes
 For show the result directly, I draw a bar plot based on the data, the picture is shown as follow. (Due to the size, I just screenshot a part of the bar plot, for more detail, please refer to this link https://vizhub.com/Rochelle-Wu/8efdeac3d2d74c978214f6a12bf669c5) This plot shows the data of video game sales in different platforms.
 ![image](https://user-images.githubusercontent.com/69691956/136319584-9875e340-5d47-4ebe-aa4d-7012a1618110.png)
+
 Fig 1. The bar plot about the all sales data in the global world
 
 
 ![image](https://user-images.githubusercontent.com/69691956/137228581-d4052f78-749d-44e5-bd54-de14ecd16dc4.png)
+
 Fig 2. The data of Wii serires platform (Wii & WiiU).
 
 # Questions
@@ -19,11 +21,13 @@ Fig 2. The data of Wii serires platform (Wii & WiiU).
 To help answer these questions I've conceptualized a visualization dashboard in the following sketch.
 There are some screenshots and sketches. 
 <img width="914" alt="pic 1-1 " src="https://user-images.githubusercontent.com/69691956/137229236-f583048e-b0b6-4f5b-8b49-2b0d860b6796.png">
+
 Fig 3. The sales data for different publishers in different genres.
 
 We can use Fig.3 to answer the Qustion 1 and 2. In Fig.3 we can know that Nintendo sales the most games, which the number is around 1 billion for all genres. Moreover, the first publisher is 900 millions more than the second publisher, which is nearly 5 times. Then when we click different genres, we can see different results.
 ![image](https://user-images.githubusercontent.com/69691956/137230201-1f39abc2-8793-4c5c-9608-5179daa5db72.png)
 Fig 4. The sales data in the Sport.
+
 In this genre, the first publisher still is Nintendo. And there are 6 publishers data is bigger than 5 million. 
 Due to the limitation of the space, for other genres' results, please refer to https://vizhub.com/Rochelle-Wu/32291274755c49ada1c3470bb473b543. For other results, we can easily know that Nintendo is shown in every genres, which means that Nintendo has better sales data. However, in some genres the best preformance is other publishers like Activision, Take-Two Interactive.
 

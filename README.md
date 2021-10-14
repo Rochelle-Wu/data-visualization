@@ -46,8 +46,13 @@ For the first sketches, we account the data about the sales in differernt platfo
 # Schedule of deliverables
 For the whole project, I have lots of work need to do, like adding interactions, combining different pictures, finding the best method to show the result and so on. 
 So I think need more time to plan my final project. 
+
 I expect to finish the basic results by several plots before the first week of November.
+
 Then I will combine these pictures before 10th November.
+
 I will deploy some interactions in my porject before 17th November.
+
 Next, I will migrate from vizhub to github and publish my project with github pages before 24th November.
+
 Finally, I will modify and optimize my project before 1st December.

@@ -17,7 +17,7 @@ Fig 2. The data of Wii serires platform (Wii & WiiU).
 3. Which platform does sell the most games? 
 4. What is the favorite genre for each region?
 
-# Sketches
+# Answer the Question
 To help answer these questions I've conceptualized a visualization dashboard in the following sketch.
 
 There are some screenshots and sketches. 
@@ -35,19 +35,19 @@ Due to the limitation of the space, for other genres' results, please refer to h
 
 
 
-![无标题的笔记本-2](https://user-images.githubusercontent.com/69691956/136325803-4f3dc593-e1d8-46b8-8583-b8369e9af271.jpg)
-![无标题的笔记本-3](https://user-images.githubusercontent.com/69691956/136325831-6f259441-497e-4ba0-9814-363206b584c2.jpg)
+![image](https://user-images.githubusercontent.com/69691956/137231313-daa89f09-9988-483f-b48d-b58a28220386.png)
+![image](https://user-images.githubusercontent.com/69691956/137231335-4140ef80-6ef5-47f3-871c-6e49a5256ca7.png)
 
 
-For the first sketches, we account the data about the sales in differernt platform for the whole world, and the result is shown in first picture. From this picture we can easily know that what the platform is the biggest. What is the second, ... The second picture is about the data counting from the publisher. From this picture, we can know that which pulisher have the most number of game. The third graphy is about the sales number for different types of game in different region. From this plot, we can understand the preferences of different regions for game types.
+For the first sketches, we account the data about the sales in differernt platform for the whole world, and the result is shown in first picture. From this picture we can easily know that what the platform is the biggest. What is the second, ... This sketch can answer the Question 3.  The second graphy is about the sales number for different types of game in different region. From this plot, we can understand the preferences of different regions for game types.
 
 
 
 # Schedule of deliverables
-Maps would be the most challenging part so I would spend more time. I expect to get maps done by the first week of November.
-Map with circles representing amount of restaurants, by week 8.
-Map with dots representing locations of restaurants, by week 9.
-Try to add map tiles on the second map and polish maps, by week 10.
-Map of seafood or bar chart of seafood, week 11.
-Interactive bar chart of food categories, week 12.
-Polish the whole project and fix any issues, week 13, 14.
+For the whole project, I have lots of work need to do, like adding interactions, combining different pictures, finding the best method to show the result and so on. 
+So I think need more time to plan my final project. 
+I expect to finish the basic results by several plots before the first week of November.
+Then I will combine these pictures before 10th November.
+I will deploy some interactions in my porject before 17th November.
+Next, I will migrate from vizhub to github and publish my project with github pages before 24th November.
+Finally, I will modify and optimize my project before 1st December.

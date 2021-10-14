@@ -6,10 +6,10 @@ For show the result directly, I draw a bar plot based on the data, the picture i
 The data of Wii serires platform (Wii & WiiU).
 ![image](https://user-images.githubusercontent.com/69691956/137228581-d4052f78-749d-44e5-bd54-de14ecd16dc4.png)
 # Questions
-1. From whole data, which publisher does sell the most games? 
-2. Which platform does sell the most games? 
-3. What is the favorite genre for each region?
-4. Which publisher does sell the most game (< 5 million)? 
+1. From whole data, what is the performance of the different publisher in different genres? 
+2. Which the publisher does sell the most game (> 5 million)? 
+3. Which platform does sell the most games? 
+4. What is the favorite genre for each region?
 
 # Sketches
 To help answer these questions I've conceptualized a visualization dashboard in the following sketch.

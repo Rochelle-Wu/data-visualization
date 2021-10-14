@@ -19,7 +19,9 @@ Fig 2. The data of Wii serires platform (Wii & WiiU).
 
 # Sketches
 To help answer these questions I've conceptualized a visualization dashboard in the following sketch.
+
 There are some screenshots and sketches. 
+
 <img width="914" alt="pic 1-1 " src="https://user-images.githubusercontent.com/69691956/137229236-f583048e-b0b6-4f5b-8b49-2b0d860b6796.png">
 
 Fig 3. The sales data for different publishers in different genres.

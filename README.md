@@ -11,6 +11,11 @@ Fig 1. The bar plot about the all sales data in the global world
 
 Fig 2. The data of Wii serires platform (Wii & WiiU).
 
+![image](https://user-images.githubusercontent.com/69691956/140871184-c84c98b3-a8e6-4b81-a754-3c2ec57f1b14.png)
+Fig 3. Game sale >5 Million with Brushing
+
+From Figure 3, we can know that the detail of the global sales.
+
 # Questions
 1. From whole data, what is the performance of the different publisher in different genres? 
 2. Which the publisher does sell the most game (> 5 million)? 
@@ -24,11 +29,11 @@ There are some screenshots and sketches.
 
 <img width="914" alt="pic 1-1 " src="https://user-images.githubusercontent.com/69691956/137229236-f583048e-b0b6-4f5b-8b49-2b0d860b6796.png">
 
-Fig 3. The sales data for different publishers in different genres.
+Fig 4. The sales data for different publishers in different genres.
 
-We can use Fig.3 to answer the Qustion 1 and 2. In Fig.3 we can know that Nintendo sales the most games, which the number is around 1 billion for all genres. Moreover, the first publisher is 900 millions more than the second publisher, which is nearly 5 times. Then when we click different genres, we can see different results.
+We can use Fig.4 to answer the Qustion 1 and 2. In Fig.3 we can know that Nintendo sales the most games, which the number is around 1 billion for all genres. Moreover, the first publisher is 900 millions more than the second publisher, which is nearly 5 times. Then when we click different genres, we can see different results.
 ![image](https://user-images.githubusercontent.com/69691956/137230201-1f39abc2-8793-4c5c-9608-5179daa5db72.png)
-Fig 4. The sales data in the Sport.
+Fig 5. The sales data in the Sport.
 
 In this genre, the first publisher still is Nintendo. And there are 6 publishers data is bigger than 5 million. 
 Due to the limitation of the space, for other genres' results, please refer to https://vizhub.com/Rochelle-Wu/32291274755c49ada1c3470bb473b543. For other results, we can easily know that Nintendo is shown in every genres, which means that Nintendo has better sales data. However, in some genres the best preformance is other publishers like Activision, Take-Two Interactive.
@@ -56,3 +61,6 @@ I will deploy some interactions in my porject before 17th November.
 Next, I will migrate from vizhub to github and publish my project with github pages before 24th November.
 
 Finally, I will modify and optimize my project before 1st December.
+
+
+The running vision of Fig.3 is https://vizhub.com/Rochelle-Wu/09b31221dc064287a7fa3fde29332be8?edit=files&file=index.html
